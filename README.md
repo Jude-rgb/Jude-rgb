@@ -26,6 +26,8 @@ I am frontend developer who loves react & react native.
 
 <b>My GitHub Stats</b>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jude-rgb)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="http://www.github.com/Jude-rgb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jude-rgb&stroke=ffffff&background=0f172a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Jude-rgb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jude-rgb&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
