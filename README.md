@@ -72,10 +72,6 @@
 
 > Stay tuned — **big ideas are turning into real products!**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="180" alt="cooking gif"/>
-</p>
-
 ---
 
 <div align="center">
