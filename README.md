@@ -16,16 +16,17 @@
 ## 👨‍💻 About Me
 
 - 💡 Started from scratch in **2022**, now building **production-level** apps  
-- 🌍 Born in **Sri Lanka**, currently living and coding in **Oman**  
-- 💻 Specializing in **React Native with Expo CLI**, **JavaScript**, **HTML/CSS**, **React**, **WordPress**, **Supabase**, **Firebase**, **Zustand**, **JetEngine**  
-- 🧠 Passionate about clean code, async workflows, and building real-world solutions  
+- 🌍 Born in **Sri Lanka**, currently living and coding in **Oman**. 
+- 💻 Specializing in **React Native with Expo CLI**, **JavaScript**, **HTML/CSS**, **React**, **Wordpress**, **Supabase**, **Firebase**, **Zustand**, **JetEngine**
+- 🚀 Passionate about clean, modern code and real-world solutions.   
+- 🧠 Learning daily new technologies    
 
 ---
 
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,wordpress,js,html,css,supabase,firebase" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,wordpress,js,html,css,supabase,firebase,chatgpt" alt="Tech Stack" />
 </p>
 
 ---
