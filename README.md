@@ -1,10 +1,10 @@
 <!-- BANNER WITH ANIMATED BACKGROUND + TYPING -->
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&color=F97316&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+GitHub+Profile!;I'm+Jude+Jayathilaka;React+Native+%7C+Expo+CLI+Developer;Living+in+Oman" alt="Typing SVG"/>
+  <img src="https://user-images.githubusercontent.com/74422845/234446904-e493b7aa-e62b-4cf3-819c-1c96a933bfd1.gif" width="100%" alt="banner with animation"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Jude+Jayathilaka!;React+Native+(Expo)+Developer;Self+Taught+Engineer+from+Sri+Lanka;Living+in+Oman+%F0%9F%87%B4%F0%9F%87%B2+and+Building+Real+Apps" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&color=F97316&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+GitHub+Profile!;I'm+Jude+Jayathilaka;React+Native+%7C+Expo+CLI+Developer;Living+in+Oman" alt="Typing SVG"/>
 </p>
 
 <h1 align="center">🔥 Crafting Apps with Passion & Code</h1>
