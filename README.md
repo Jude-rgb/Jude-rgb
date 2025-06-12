@@ -1,16 +1,17 @@
-<!-- BANNER WITH ANIMATED BACKGROUND + TYPING -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74422845/234446904-e493b7aa-e62b-4cf3-819c-1c96a933bfd1.gif" width="100%" alt="banner with animation"/>
+<!-- BANNER WITH ANIMATED BACKGROUND AND TEXT OVERLAY -->
+<p align="center" style="position: relative;">
+  <img src="https://i.gifer.com/7VE.gif" width="100%" alt="animated banner background"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&color=F97316&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+GitHub+Profile!;I'm+Jude+Jayathilaka;React+Native+%7C+Expo+CLI+Developer;Living+in+Oman" alt="Typing SVG"/>
-</p>
+<h2 align="center">
+  🚀 Welcome to My World of Code <br/>
+  I'm Jude Jayathilaka — React Native Developer (Expo CLI) <br/>
+  🇱🇰 From Sri Lanka • 🌍 Living in Oman
+</h2>
 
-<h1 align="center">🔥 Crafting Apps with Passion & Code</h1>
-
+<!-- Header GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="200" alt="Developer GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="boy coding at PC" />
 </p>
 
 ---
@@ -18,10 +19,9 @@
 ## 👨‍💻 About Me
 
 - 💡 Started from scratch in **2022**, now building **production-level** apps  
-- 🌍 Born in **Sri Lanka**, currently living and coding in **Oman**. 
-- 💻 Specializing in **React Native with Expo CLI**, **JavaScript**, **HTML/CSS**, **React**, **Wordpress**, **Supabase**, **Firebase**, **Zustand**, **JetEngine**
-- 🚀 Passionate about clean, modern code and real-world solutions.   
-- 🧠 Learning daily new technologies  
+- 🌍 Born in **Sri Lanka**, currently living and coding in **Oman**  
+- 💻 Specializing in **React Native with Expo CLI**, **JavaScript**, **HTML/CSS**, **React**, **WordPress**, **Supabase**, **Firebase**, **Zustand**, **JetEngine**  
+- 🧠 Passionate about clean code, async workflows, and building real-world solutions  
 
 ---
 
@@ -57,20 +57,21 @@
 
 ## 🎉 Fun Fact
 
-> I used to fear code like it was a foreign language… now I *dream* in JSX and debug in my sleep 🛌💻
+> Once I shipped a full mobile app **before I fully understood how `useEffect()` works.**  
+> Real growth happens when you start building first 💪
 
 <p align="center">
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="200" alt="fun developer gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzh5cXVsbmJkMDE4a3BvNWx0aGVxMWYwNGgwbmpqcmg2aG0xaDhzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="220" alt="fun developer gif" />
 </p>
 
 ---
 
 ## 🍲 Big Things Cooking...
-  
-> Stay tuned... **something awesome is coming soon.**
+> 🚧 I’m working on launching my own apps, building a professional portfolio, and helping others in tech.  
+> Stay tuned — **big ideas are turning into real products!**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="180" alt="cooking something gif"/>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="180" alt="cooking gif"/>
 </p>
 
 📁 **Portfolio (Coming Soon):** [https://yourportfolio.com](https://yourportfolio.com)
