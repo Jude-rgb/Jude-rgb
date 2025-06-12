@@ -1,6 +1,6 @@
 <!-- BANNER WITH ANIMATED BACKGROUND + TYPING -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74422845/234446904-e493b7aa-e62b-4cf3-819c-1c96a933bfd1.gif" width="100%" alt="banner with animation"/>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&color=F97316&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+GitHub+Profile!;I'm+Jude+Jayathilaka;React+Native+%7C+Expo+CLI+Developer;Living+in+Oman" alt="Typing SVG"/>
 </p>
 
 <p align="center">
