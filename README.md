@@ -1,13 +1,10 @@
-<!-- BANNER WITH ANIMATED BACKGROUND AND TEXT OVERLAY -->
-<p align="center" style="position: relative;">
-  <img src="https://i.gifer.com/7VE.gif" width="100%" alt="animated banner background"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74422845/234446904-e493b7aa-e62b-4cf3-819c-1c96a933bfd1.gif" width="100%" alt="banner with animation"/>
 </p>
 
-<h2 align="center">
-  🚀 Welcome to My World of Code <br/>
-  I'm Jude Jayathilaka — React Native Developer (Expo CLI) <br/>
-  🇱🇰 From Sri Lanka • 🌍 Living in Oman
-</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&color=F97316&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+GitHub+Profile!;I'm+Jude+Jayathilaka;React+Native+%7C+Expo+CLI+Developer;Living+in+Oman" alt="Typing SVG"/>
+</p>
 
 <!-- Header GIF -->
 <p align="center">
