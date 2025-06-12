@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&color=F97316&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+GitHub+Profile!;I'm+Jude+Jayathilaka;React+Native+%7C+Expo+CLI+Developer;Living+in+Oman" alt="Typing SVG"/>
 </p>
 
-<!-- Header GIF -->
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="boy coding at PC" />
+  <img src="https://i.gifer.com/7VE.gif" width="230" alt="boy coding at PC" />
 </p>
 
 ---
