@@ -15,18 +15,19 @@
 
 ## 👨‍💻 About Me
 
-- 💡 Started from scratch in **2022**, now building **production-level** apps  
+- 💼 Worked **7 years** (2015–2022) as a **Sales & Marketing Officer** before switching careers  
+- 💡 Started my tech journey in **2022**, now building **production-grade** mobile apps  
 - 🌍 Born in **Sri Lanka**, currently living and coding in **Oman**. 
 - 💻 Specializing in **React Native with Expo CLI**, **JavaScript**, **HTML/CSS**, **React**, **Wordpress**, **Supabase**, **Firebase**, **Zustand**, **JetEngine**
-- 🚀 Passionate about clean, modern code and real-world solutions.   
-- 🧠 Learning daily new technologies    
+- 🧠 Also exploring tools like **Docker**, **MySQL**, **PostgreSQL**, **ChatGPT**, and **Illustrator**  
+- 🚀 Passionate about clean, modern code and real-world solutions.     
 
 ---
 
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,wordpress,js,html,css,supabase,firebase" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,expo,wordpress,js,html,css,supabase,firebase,docker,mysql,postgres" alt="Tech Stack" />
 </p>
 
 ---
@@ -49,6 +50,9 @@
   <a href="https://www.threads.net/@yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
   </a>
+  <a href="https://behance.net/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -65,14 +69,12 @@
 ---
 
 ## 🍲 Big Things Cooking...
-> 🚧 I’m working on launching my own apps, building a professional portfolio, and helping others in tech.  
+
 > Stay tuned — **big ideas are turning into real products!**
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="180" alt="cooking gif"/>
 </p>
-
-📁 **Portfolio (Coming Soon):** [https://yourportfolio.com](https://yourportfolio.com)
 
 ---
 
