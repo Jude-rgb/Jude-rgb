@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="230" alt="boy coding at PC" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzh5cXVsbmJkMDE4a3BvNWx0aGVxMWYwNGgwbmpqcmg2aG0xaDhzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="230" alt="boy coding at PC" />
 </p>
 
 ---
@@ -63,7 +63,7 @@
 > Real growth happens when you start building first 💪
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzh5cXVsbmJkMDE4a3BvNWx0aGVxMWYwNGgwbmpqcmg2aG0xaDhzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="220" alt="fun developer gif" />
+  <img src="https://i.gifer.com/7VE.gif" width="220" alt="fun developer gif" />
 </p>
 
 ---
