@@ -58,20 +58,29 @@ I specialize in crafting **modern, production-grade frontends** for web and mobi
 </p>
 
 <p align="center">
-  <!-- Tools & Cloud -->
-  <img src="YOUR_ICON_URL_FOR_AWS" width="45" height="45" alt="AWS"/>
-  <img src="YOUR_ICON_URL_FOR_GITHUBACTIONS" width="45" height="45" alt="GitHub Actions"/>
-  <img src="YOUR_ICON_URL_FOR_WORDPRESS" width="45" height="45" alt="WordPress"/>
-  <img src="YOUR_ICON_URL_FOR_DOCKER" width="45" height="45" alt="Docker"/>
+ <img width="45" height="45" alt="AWS" src="https://github.com/user-attachments/assets/a408234b-1022-41e5-83a7-0c31b05ab37a" />
+ <img width="45" height="45" alt="AWS S3 Bucket" src="https://github.com/user-attachments/assets/84c26e44-fbd7-4a32-b70e-474618b7e27d" />
+ <img width="45" height="45" alt="AWS Lambda" src="https://github.com/user-attachments/assets/d388810e-cb69-4c5c-ab5d-3e5dd73080dc" />
+ <img width="45" height="45" alt="AWS CloudFront" src="https://github.com/user-attachments/assets/f8adc3e2-1821-4aa0-a92f-8474c6848c15" />
+ <img width="45" height="45" alt="AWS Route 53" src="https://github.com/user-attachments/assets/7817ba2a-0f87-4ddd-b5df-9a44be6fd0ea" />
+ <img width="45" height="45" alt="AWS Lightsail" src="https://github.com/user-attachments/assets/6fff047a-446c-46eb-829a-30f1eee33fea" />
+ <img width="45" height="45" alt="GitHub" src="https://github.com/user-attachments/assets/529d9b34-7ba4-4f1b-a2ab-c17c6aa5363f" />
+ <img width="45" height="45" alt="GitHub Actions" src="https://github.com/user-attachments/assets/cd71563b-8208-47d7-994f-e25bc63a9ef8" />
+ <img width="45" height="45" alt="Vercel" src="https://github.com/user-attachments/assets/dd17a854-f8a6-42fc-be10-41c26c02de86" />
+ <img width="45" height="45" alt="Docker" src="https://github.com/user-attachments/assets/9c268776-d360-4564-810f-796ad5f2ad57" />
+ <img width="45" height="45" alt="WordPress" src="https://github.com/user-attachments/assets/79b6c39e-3498-4b1c-9222-1349b9fd008b" />
+ <img width="45" height="45" alt="VS" src="https://github.com/user-attachments/assets/0b1f56dd-2ff3-409a-bd59-9dcb0ef47164" />
+ <img width="45" height="45" alt="Figma" src="https://github.com/user-attachments/assets/34f304c8-02d2-4b74-a668-d8bd3d5448a8" />
+ <img width="45" height="45" alt="Canva" src="https://github.com/user-attachments/assets/b5af3301-923e-4056-ab0d-2c109771c7dc" />
+ <img width="45" height="45" alt="Adobe Illustrator" src="https://github.com/user-attachments/assets/24708687-ac5a-4ceb-9aa2-0f964ee1e1e0" />
 </p>
 
-<p align="center">
-  <!-- AI & Automation -->
+<!-- <p align="center">
   <img src="YOUR_ICON_URL_FOR_CHATGPT" width="45" height="45" alt="ChatGPT"/>
   <img src="YOUR_ICON_URL_FOR_CLAUDE" width="45" height="45" alt="Claude"/>
   <img src="YOUR_ICON_URL_FOR_CURSOR" width="45" height="45" alt="Cursor"/>
   <img src="YOUR_ICON_URL_FOR_BREVO" width="45" height="45" alt="Brevo API"/>
-</p>
+</p> -->
 ---
 
 ## 🧠 Experience
