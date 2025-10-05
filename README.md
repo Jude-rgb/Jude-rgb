@@ -29,7 +29,7 @@ I specialize in crafting **modern, production-grade frontends** for web and mobi
 
 ---
 
-## ⚙️ Tech Stack (Icons)
+## ⚙️ Tech Stack
 
 <p align="center">
   <img width="45" height="45" alt="HTML" src="https://github.com/user-attachments/assets/8afd5faf-756b-4cbc-9695-86022453fd7b" />
