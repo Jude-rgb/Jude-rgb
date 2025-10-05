@@ -176,5 +176,5 @@ Developing full-stack ERP and mobile applications for Gethor Group’s internal 
 ---
 
 <div align="center">
-  <sub>Designed with ❤️ by Jude • Proudly self-learning since 2022<span style="color:#ed0e64;">Script Wind</span></sub>
+  <sub>Designed with ❤️ by Jude • Proudly self-learning since 2022 — © 2025<span style="color:#ed0e64;">Script Wind</span></sub>
 </div>
