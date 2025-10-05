@@ -1,83 +1,126 @@
+# 🪄 **Jude Jayathilaka**
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74422845/234446904-e493b7aa-e62b-4cf3-819c-1c96a933bfd1.gif" width="100%" alt="banner with animation"/>
+  <img src="https://user-images.githubusercontent.com/74422845/234446904-e493b7aa-e62b-4cf3-819c-1c96a933bfd1.gif" width="100%" alt="Banner with animation"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&color=F97316&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+GitHub+Profile!;I'm+Jude+Jayathilaka;React+Native+%7C+Expo+CLI+Developer;Living+in+Oman" alt="Typing SVG"/>
-</p>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzh5cXVsbmJkMDE4a3BvNWx0aGVxMWYwNGgwbmpqcmg2aG0xaDhzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="230" alt="boy coding at PC" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&color=ED0E64&center=true&vCenter=true&width=800&height=70&lines=Frontend+Developer+%F0%9F%92%BB;Building+Future-Ready+Web+%26+Mobile+Apps;Founder+of+Script+Wind;Based+in+Oman+%7C+Originally+from+Sri+Lanka" alt="Typing SVG"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me  
 
-- 💼 Worked **7 years** (2015–2022) as a **Sales & Marketing Officer** before switching careers  
-- 💡 Started my tech journey in **2022**, now building **production-grade** mobile apps  
-- 🌍 Born in **Sri Lanka**, currently living and coding in **Oman**. 
-- 💻 Specializing in **React Native with Expo CLI**, **JavaScript**, **HTML/CSS**, **React**, **Wordpress**, **Supabase**, **Firebase**, **Zustand**, **JetEngine**
-- 🧠 Also exploring tools like **Docker**, **MySQL**, **PostgreSQL**, **ChatGPT**, and **Illustrator**  
-- 🚀 Passionate about clean, modern code and real-world solutions.     
+Hey there! I’m **Jude**, a self-taught frontend developer currently based in **Oman** 🇴🇲, originally from **Sri Lanka** 🇱🇰.  
+I specialize in crafting **modern, production-grade frontends** for web and mobile apps — blending design, engineering, and scalability.  
+
+💼 **Current Roles:**  
+- **Frontend Developer** @ [Pixel Pro Oman](https://pixelpro.om)  
+- **Founder** @ [Script Wind](https://scriptwind.com) — “Where ideas catch wind.”  
+
+🚀 **Currently Building:**  
+- SaaS, CRM & ERP Systems for the Gethor Group ecosystem  
+- Cross-platform mobile apps powered by **React Native (Expo CLI)**  
+- Cloud-native deployments on **AWS (S3 + CloudFront)**  
+
+🧭 My motto:  
+> “I believe technology should fuel creativity — not overwhelm it.”
 
 ---
 
 ## ⚙️ Tech Stack
 
+**Frontend:**  
+`React` • `Next.js` • `Vue 3` • `TypeScript` • `Tailwind CSS` • `ShadCN UI` • `Framer Motion`
+
+**Backend / Database:**  
+`Express.js` • `Supabase (Postgres + RLS)` • `Firebase` • `Node.js`
+
+**Tools & Cloud:**  
+`AWS (S3, Lambda, CloudFront)` • `GitHub Actions` • `WordPress` • `CI/CD`
+
+**AI & Automation:**  
+`ChatGPT` • `Lovable AI` • `Cursor` • `Brevo API` • `Claude`  
+
+---
+
+## 🧠 Experience
+
+**Founder — Script Wind**  
+*Jul 2025 – Present | Oman & Remote*  
+Building SaaS applications, CRMs, and automation-ready AI solutions under my brand Script Wind.  
+
+**Frontend Developer — Pixel Pro Oman**  
+*Sep 2022 – Present | Oman*  
+Developing full-stack ERP and mobile applications for Gethor Group’s internal systems.  
+
+**Sales Officer — S-Lon Lanka Pvt Ltd**  
+*2015 – 2022 | Sri Lanka*  
+7+ years in sales, logistics, and data-driven operations before moving into tech.
+
+---
+
+## 🧩 Featured Project  
+
+### 🏋️‍♂️ **Get Fit**  
+> A complete web-based fitness tracking application built under **Script Wind**.  
+Features analytics dashboards, trainer modules, and performance tracking.  
+
+**Tech:** React + TypeScript + Tailwind + Zustand  
+**Hosting:** AWS S3 + CloudFront  
+
+🔗 [Explore Live →](https://getfit.scriptwind.com)
+
+---
+
+## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,wordpress,js,html,css,supabase,firebase,docker,mysql,postgres" alt="Tech Stack" />
+  <img src="https://github-readme-stats.vercel.app/api?username=judetharindu593&show_icons=true&theme=radical&title_color=ed0e64&icon_color=ed0e64&text_color=ffffff&bg_color=0d1117" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=judetharindu593&layout=compact&theme=radical&title_color=ed0e64&text_color=ffffff&bg_color=0d1117" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=judetharindu593&theme=radical&ring=ed0e64&fire=ed0e64&currStreakLabel=ed0e64" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 💬 Contact  
+
+📧 **Email:** [judetharindu593@gmail.com](mailto:judetharindu593@gmail.com)  
+🌐 **Portfolio:** [judejay.com](https://judejay.com)  
+🪄 **Brand:** [scriptwind.com](https://scriptwind.com)
 
 <p align="center">
-  <a href="https://linkedin.com/in/judejayathilaka" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/jude-jayathilaka">
+    <img src="https://img.shields.io/badge/LinkedIn-ED0E64?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:jude@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://instagram.com/scriptwind">
+    <img src="https://img.shields.io/badge/Instagram-ED0E64?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://facebook.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://www.youtube.com/@scriptwind">
+    <img src="https://img.shields.io/badge/YouTube-ED0E64?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.threads.net/@yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
-  </a>
-  <a href="https://behance.net/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  <a href="https://x.com/script_wind">
+    <img src="https://img.shields.io/badge/Twitter(X)-ED0E64?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🎉 Fun Fact
+## ✨ Fun Fact  
 
-> Once I shipped a full mobile app **before I fully understood how `useEffect()` works.**  
-> Real growth happens when you start building first 💪
+> I once shipped an entire React Native app before I truly understood how `useEffect()` works 😅  
+> — shipping first, learning faster 🚀  
 
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="220" alt="fun developer gif" />
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="220" alt="Developer GIF"/>
 </p>
-
----
-
-## 🍲 Big Things Cooking...
-
-> Stay tuned — **big ideas are turning into real products!**
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" alt="end gif"/>
-</div>
-
-<div align="center">
-  <sub>Designed with ❤️ by Jude • Proudly self-learning since 2022</sub>
+  <sub>Made with ❤️ using React, Tailwind & AI — © 2025 <span style="color:#ed0e64;">Script Wind</span></sub>
 </div>
