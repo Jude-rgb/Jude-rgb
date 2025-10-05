@@ -32,9 +32,10 @@ I specialize in crafting **modern, production-grade frontends** for web and mobi
 ## ⚙️ Tech Stack (Icons)
 
 <p align="center">
-  <!-- Frontend -->
+  <img width="45" height="45" alt="HTML" src="https://github.com/user-attachments/assets/8afd5faf-756b-4cbc-9695-86022453fd7b" />
+  <img width="45" height="45" alt="CSS" src="https://github.com/user-attachments/assets/ede8cd18-a653-4553-b486-1d9c84d66d8a" />
+  <img width="45" height="45" alt="JavaScript" src="https://github.com/user-attachments/assets/c6559073-42a2-4fbc-a3ca-13bb6a25e3b9" />
   <img width="45" height="45" alt="TypeScript" src="https://github.com/user-attachments/assets/11648704-02a3-4f37-a24a-a8d9e8544da2" />
-  <img src="YOUR_ICON_URL_FOR_TYPESCRIPT" width="45" height="45" alt="TypeScript"/>
   <img src="YOUR_ICON_URL_FOR_REACT" width="45" height="45" alt="React"/>
   <img src="YOUR_ICON_URL_FOR_NEXTJS" width="45" height="45" alt="Next.js"/>
   <img src="YOUR_ICON_URL_FOR_VUE" width="45" height="45" alt="Vue"/>
