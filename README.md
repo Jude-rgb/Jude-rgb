@@ -49,12 +49,12 @@ I specialize in crafting **modern, production-grade frontends** for web and mobi
 </p>
 
 <p align="center">
-  <!-- Backend / Database -->
-  <img src="YOUR_ICON_URL_FOR_NODEJS" width="45" height="45" alt="Node.js"/>
-  <img src="YOUR_ICON_URL_FOR_EXPRESS" width="45" height="45" alt="Express.js"/>
-  <img src="YOUR_ICON_URL_FOR_SUPABASE" width="45" height="45" alt="Supabase"/>
-  <img src="YOUR_ICON_URL_FOR_POSTGRES" width="45" height="45" alt="PostgreSQL"/>
-  <img src="YOUR_ICON_URL_FOR_FIREBASE" width="45" height="45" alt="Firebase"/>
+  <img width="45" height="45" alt="Node.js" src="https://github.com/user-attachments/assets/b9612892-6270-4879-a003-84564d77f50b" />
+  <img width="45" height="45" alt="Express.js" src="https://github.com/user-attachments/assets/72f05237-e0e0-4c98-b3e6-1855e559a8db" />
+  <img width="45" height="45" alt="Supabase" src="https://github.com/user-attachments/assets/68588396-79fc-4f7d-9c69-0c45bbb9751e" />
+  <img width="45" height="45" alt="Firebase" src="https://github.com/user-attachments/assets/4ad0d960-4d12-4bee-bc72-40ff7205f482" />
+  <img width="45" height="45" alt="PostgreSQL" src="https://github.com/user-attachments/assets/cd6168e1-55e9-4a56-916d-cebac80849fd" />
+  <img width="45" height="45" alt="MySQL" src="https://github.com/user-attachments/assets/26d358bb-7678-467d-8f74-06272d6aa554" />
 </p>
 
 <p align="center">
