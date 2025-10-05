@@ -1,4 +1,4 @@
-# 🪄 **Jude Jayathilaka**
+# 🪄 **Jude Jayathilaka — <a href="https://judejay.com" target="_blank" style="color:#ed0e64;text-decoration:none;">View my portfolio</a>**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74422845/234446904-e493b7aa-e62b-4cf3-819c-1c96a933bfd1.gif" width="100%" alt="Banner with animation"/>
@@ -16,32 +16,100 @@ Hey there! I’m **Jude**, a self-taught frontend developer currently based in *
 I specialize in crafting **modern, production-grade frontends** for web and mobile apps — blending design, engineering, and scalability.  
 
 💼 **Current Roles:**  
-- **Frontend Developer** @ [Pixel Pro Oman](https://pixelpro.om)  
+- **Frontend Developer** @ Pixel Pro Oman  
 - **Founder** @ [Script Wind](https://scriptwind.com) — “Where ideas catch wind.”  
 
 🚀 **Currently Building:**  
-- SaaS, CRM & ERP Systems for the Gethor Group ecosystem  
-- Cross-platform mobile apps powered by **React Native (Expo CLI)**  
-- Cloud-native deployments on **AWS (S3 + CloudFront)**  
+- SaaS, CRM & ERP Systems (multi-tenant)  
+- Cross-platform apps with **React Native (Expo CLI)**  
+- Cloud-native on **AWS (S3 + CloudFront)**  
 
 🧭 My motto:  
 > “I believe technology should fuel creativity — not overwhelm it.”
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack (Icons)
 
-**Frontend:**  
-`React` • `Next.js` • `Vue 3` • `TypeScript` • `Tailwind CSS` • `ShadCN UI` • `Framer Motion`
+> Replace the placeholders below with your **inline SVGs**.  
+> Tip: keep each SVG around **40–48px** (set `width="45" height="45"`), and ensure `fill="currentColor"` where possible for consistency.
 
-**Backend / Database:**  
-`Express.js` • `Supabase (Postgres + RLS)` • `Firebase` • `Node.js`
+<p align="center">
+  <!-- Frontend -->
+  <a title="TypeScript" href="#"><span style="display:inline-block;width:45px;height:45px;vertical-align:middle;">
+    <!-- 👇 Paste TypeScript SVG here -->
+    <!-- <svg ...>...</svg> -->
+  </span></a>
+  <a title="React" href="#"><span style="display:inline-block;width:45px;height:45px;vertical-align:middle;">
+    <!-- 👇 Paste React SVG here -->
+  </span></a>
+  <a title="Next.js" href="#"><span style="display:inline-block;width:45px;height:45px;vertical-align:middle;">
+    <!-- 👇 Paste Next.js SVG here -->
+  </span></a>
+  <a title="Vue 3" href="#"><span style="display:inline-block;width:45px;height:45px;vertical-align:middle;">
+    <!-- 👇 Paste Vue SVG here -->
+  </span></a>
+  <a title="Tailwind CSS" href="#"><span style="display:inline-block;width:45px;height:45px;vertical-align:middle;">
+    <!-- 👇 Paste Tailwind SVG here -->
+  </span></a>
+  <a title="ShadCN UI" href="#"><span style="display:inline-block;width:45px;height:45px;vertical-align:middle;">
+    <!-- 👇 Paste ShadCN SVG here -->
+  </span></a>
+  <a title="Framer Motion" href="#"><span style="display:inline-block;width:45px;height:45px;vertical-align:middle;">
+    <!-- 👇 Paste Framer Motion SVG here -->
+  </span></a>
+</p>
 
-**Tools & Cloud:**  
-`AWS (S3, Lambda, CloudFront)` • `GitHub Actions` • `WordPress` • `CI/CD`
+<p align="center">
+  <!-- Backend / Database -->
+  <a title="Node.js" href="#"><span style="display:inline-block;width:45px;height:45px;vertical-align:middle;">
+    <!-- 👇 Paste Node.js SVG here -->
+  </span></a>
+  <a title="Express.js" href="#"><span style="display:inline-block;width:45px;height:45px;vertical-align:middle;">
+    <!-- 👇 Paste Express SVG here -->
+  </span></a>
+  <a title="Supabase" href="#"><span style="display:inline-block;width:45px;height:45px;vertical-align:middle;">
+    <!-- 👇 Paste Supabase SVG here -->
+  </span></a>
+  <a title="PostgreSQL" href="#"><span style="display:inline-block;width:45px;height:45px;vertical-align:middle;">
+    <!-- 👇 Paste PostgreSQL SVG here -->
+  </span></a>
+  <a title="Firebase" href="#"><span style="display:inline-block;width:45px;height:45px;vertical-align:middle;">
+    <!-- 👇 Paste Firebase SVG here -->
+  </span></a>
+</p>
 
-**AI & Automation:**  
-`ChatGPT` • `Lovable AI` • `Cursor` • `Brevo API` • `Claude`  
+<p align="center">
+  <!-- Tools & Cloud -->
+  <a title="AWS" href="#"><span style="display:inline-block;width:45px;height:45px;vertical-align:middle;">
+    <!-- 👇 Paste AWS SVG here -->
+  </span></a>
+  <a title="GitHub Actions" href="#"><span style="display:inline-block;width:45px;height:45px;vertical-align:middle;">
+    <!-- 👇 Paste GitHub Actions SVG here -->
+  </span></a>
+  <a title="WordPress" href="#"><span style="display:inline-block;width:45px;height:45px;vertical-align:middle;">
+    <!-- 👇 Paste WordPress SVG here -->
+  </span></a>
+  <a title="Docker" href="#"><span style="display:inline-block;width:45px;height:45px;vertical-align:middle;">
+    <!-- 👇 Paste Docker SVG here -->
+  </span></a>
+</p>
+
+<p align="center">
+  <!-- AI & Automation -->
+  <a title="ChatGPT" href="#"><span style="display:inline-block;width:45px;height:45px;vertical-align:middle;">
+    <!-- 👇 Paste ChatGPT SVG here -->
+  </span></a>
+  <a title="Claude" href="#"><span style="display:inline-block;width:45px;height:45px;vertical-align:middle;">
+    <!-- 👇 Paste Claude SVG here -->
+  </span></a>
+  <a title="Cursor" href="#"><span style="display:inline-block;width:45px;height:45px;vertical-align:middle;">
+    <!-- 👇 Paste Cursor SVG here -->
+  </span></a>
+  <a title="Brevo API" href="#"><span style="display:inline-block;width:45px;height:45px;vertical-align:middle;">
+    <!-- 👇 Paste Brevo SVG here -->
+  </span></a>
+</p>
 
 ---
 
@@ -61,52 +129,38 @@ Developing full-stack ERP and mobile applications for Gethor Group’s internal 
 
 ---
 
-## 🧩 Featured Project  
+## 📮 Contact
 
-### 🏋️‍♂️ **Get Fit**  
-> A complete web-based fitness tracking application built under **Script Wind**.  
-Features analytics dashboards, trainer modules, and performance tracking.  
+<div align="center">
 
-**Tech:** React + TypeScript + Tailwind + Zustand  
-**Hosting:** AWS S3 + CloudFront  
 
-🔗 [Explore Live →](https://getfit.scriptwind.com)
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=judetharindu593&show_icons=true&theme=radical&title_color=ed0e64&icon_color=ed0e64&text_color=ffffff&bg_color=0d1117" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=judetharindu593&layout=compact&theme=radical&title_color=ed0e64&text_color=ffffff&bg_color=0d1117" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=judetharindu593&theme=radical&ring=ed0e64&fire=ed0e64&currStreakLabel=ed0e64" alt="GitHub Streak"/>
-</p>
-
----
-
-## 💬 Contact  
-
-📧 **Email:** [judetharindu593@gmail.com](mailto:judetharindu593@gmail.com)  
-🌐 **Portfolio:** [judejay.com](https://judejay.com)  
-🪄 **Brand:** [scriptwind.com](https://scriptwind.com)
-
-<p align="center">
-  <a href="https://linkedin.com/in/jude-jayathilaka">
-    <img src="https://img.shields.io/badge/LinkedIn-ED0E64?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:judetharindu593@gmail.com" style="text-decoration:none;">
+    <img alt="Email Jude" src="https://img.shields.io/badge/Email-judetharindu593%40gmail.com-ed0e64?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/scriptwind">
-    <img src="https://img.shields.io/badge/Instagram-ED0E64?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://judejay.com" target="_blank" style="text-decoration:none;">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-judejay.com-ed0e64?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@scriptwind">
-    <img src="https://img.shields.io/badge/YouTube-ED0E64?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://scriptwind.com" target="_blank" style="text-decoration:none;">
+    <img alt="Script Wind" src="https://img.shields.io/badge/Script%20Wind-scriptwind.com-ed0e64?style=for-the-badge&logo=windicss&logoColor=white" />
   </a>
-  <a href="https://x.com/script_wind">
-    <img src="https://img.shields.io/badge/Twitter(X)-ED0E64?style=for-the-badge&logo=x&logoColor=white" />
+
+  <br/><br/>
+
+
+  <a href="https://linkedin.com/in/jude-jayathilaka" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ed0e64?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
+  <a href="https://x.com/script_wind" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter(X)-ed0e64?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.youtube.com/@scriptwind" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-ed0e64?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.instagram.com/scriptwind" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ed0e64?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+</div>
 
 ---
 
@@ -122,5 +176,5 @@ Features analytics dashboards, trainer modules, and performance tracking.
 ---
 
 <div align="center">
-  <sub>Made with ❤️ using React, Tailwind & AI — © 2025 <span style="color:#ed0e64;">Script Wind</span></sub>
+  <sub>Designed with ❤️ by Jude • Proudly self-learning since 2022<span style="color:#ed0e64;">Script Wind</span></sub>
 </div>
