@@ -36,12 +36,16 @@ I specialize in crafting **modern, production-grade frontends** for web and mobi
   <img width="45" height="45" alt="CSS" src="https://github.com/user-attachments/assets/ede8cd18-a653-4553-b486-1d9c84d66d8a" />
   <img width="45" height="45" alt="JavaScript" src="https://github.com/user-attachments/assets/c6559073-42a2-4fbc-a3ca-13bb6a25e3b9" />
   <img width="45" height="45" alt="TypeScript" src="https://github.com/user-attachments/assets/11648704-02a3-4f37-a24a-a8d9e8544da2" />
-  <img src="YOUR_ICON_URL_FOR_REACT" width="45" height="45" alt="React"/>
-  <img src="YOUR_ICON_URL_FOR_NEXTJS" width="45" height="45" alt="Next.js"/>
-  <img src="YOUR_ICON_URL_FOR_VUE" width="45" height="45" alt="Vue"/>
-  <img src="YOUR_ICON_URL_FOR_TAILWIND" width="45" height="45" alt="Tailwind CSS"/>
-  <img src="YOUR_ICON_URL_FOR_SHADCN" width="45" height="45" alt="ShadCN UI"/>
-  <img src="YOUR_ICON_URL_FOR_FRAMER_MOTION" width="45" height="45" alt="Framer Motion"/>
+  <img width="45" height="45" alt="React.js" src="https://github.com/user-attachments/assets/70cfad8a-427e-4b51-a689-9da0a2b4c668" />
+  <img width="45" height="45" alt="Next.js" src="https://github.com/user-attachments/assets/ac15d86b-b039-452d-9f90-bea63cb03925" />
+  <img width="45" height="45" alt="Vue.js" src="https://github.com/user-attachments/assets/1c83afae-53f3-485c-83b9-5838b24738ab" />
+  <img width="45" height="45" alt="Redux" src="https://github.com/user-attachments/assets/8b6c3030-17d5-4676-b17e-6bee42e99385" />
+  <img width="45" height="45" alt="Tailwind CSS" src="https://github.com/user-attachments/assets/7c1c3ac4-110c-4bfa-aff9-b6217e4df04e" />
+  <img width="45" height="45" alt="Material UI" src="https://github.com/user-attachments/assets/8ad33b59-b5ae-4beb-94fd-9fa005417c11" />
+  <img width="45" height="45" alt="Veutify " src="https://github.com/user-attachments/assets/7a261813-d69e-47b1-a6a3-f222c84cd7ee" />
+  <img width="45" height="45" alt="Vite" src="https://github.com/user-attachments/assets/11356e65-1f43-4e1a-88e3-67b29f1b2351" />
+  <img width="45" height="45" alt="Webpack" src="https://github.com/user-attachments/assets/1d31137c-e1a1-48cc-9109-2b3af8a2632d" />
+  <img width="45" height="45" alt="Flutter" src="https://github.com/user-attachments/assets/d10e7c65-892c-4c4a-911f-9e2268de9e7e" />
 </p>
 
 <p align="center">
