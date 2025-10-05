@@ -33,7 +33,7 @@ I specialize in crafting **modern, production-grade frontends** for web and mobi
 
 <p align="center">
   <!-- Frontend -->
-  <img width="512" height="512" alt="TypeScript" src="https://github.com/user-attachments/assets/11648704-02a3-4f37-a24a-a8d9e8544da2" />
+  <img width="45" height="45" alt="TypeScript" src="https://github.com/user-attachments/assets/11648704-02a3-4f37-a24a-a8d9e8544da2" />
   <img src="YOUR_ICON_URL_FOR_TYPESCRIPT" width="45" height="45" alt="TypeScript"/>
   <img src="YOUR_ICON_URL_FOR_REACT" width="45" height="45" alt="React"/>
   <img src="YOUR_ICON_URL_FOR_NEXTJS" width="45" height="45" alt="Next.js"/>
