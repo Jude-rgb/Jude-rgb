@@ -120,16 +120,6 @@ Developing full-stack ERP and mobile applications for Gethor Group’s internal 
   <a href="https://linkedin.com/in/jude-jayathilaka" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ed0e64?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/script_wind" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter(X)-ed0e64?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://www.youtube.com/@scriptwind" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-ed0e64?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://www.instagram.com/scriptwind" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-ed0e64?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-
 </div>
 
 ---
