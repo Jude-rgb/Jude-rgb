@@ -21,8 +21,8 @@ I specialize in crafting **modern, production-grade frontends** for web and mobi
 
 🚀 **Currently Building:**  
 - SaaS, CRM & ERP Systems (multi-tenant)  
-- Cross-platform apps with **React Native (Expo CLI)**  
-- Cloud-native on **AWS (S3 + CloudFront)**  
+- Cross-platform apps with **React Native (Expo) & Flutter**  
+- Cloud-native on **AWS**  
 
 🧭 My motto:  
 > “I believe technology should fuel creativity — not overwhelm it.”
