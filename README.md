@@ -1,4 +1,4 @@
-# 🪄 **Jude Jayathilaka
+# 🪄 Jude Jayathilaka
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74422845/234446904-e493b7aa-e62b-4cf3-819c-1c96a933bfd1.gif" width="100%" alt="Banner with animation"/>
