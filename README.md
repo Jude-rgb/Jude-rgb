@@ -1,4 +1,4 @@
-# 🪄 **Jude Jayathilaka — <a href="https://judejay.com" target="_blank" style="color:#ed0e64;text-decoration:none;">My Portfolio</a>**
+# 🪄 **Jude Jayathilaka
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74422845/234446904-e493b7aa-e62b-4cf3-819c-1c96a933bfd1.gif" width="100%" alt="Banner with animation"/>
@@ -41,10 +41,8 @@ I specialize in crafting **modern, production-grade frontends** for web and mobi
   <img width="45" height="45" alt="Vue.js" src="https://github.com/user-attachments/assets/1c83afae-53f3-485c-83b9-5838b24738ab" />
   <img width="45" height="45" alt="Redux" src="https://github.com/user-attachments/assets/8b6c3030-17d5-4676-b17e-6bee42e99385" />
   <img width="45" height="45" alt="Tailwind CSS" src="https://github.com/user-attachments/assets/7c1c3ac4-110c-4bfa-aff9-b6217e4df04e" />
-  <img width="45" height="45" alt="Material UI" src="https://github.com/user-attachments/assets/8ad33b59-b5ae-4beb-94fd-9fa005417c11" />
   <img width="45" height="45" alt="Veutify " src="https://github.com/user-attachments/assets/7a261813-d69e-47b1-a6a3-f222c84cd7ee" />
   <img width="45" height="45" alt="Vite" src="https://github.com/user-attachments/assets/11356e65-1f43-4e1a-88e3-67b29f1b2351" />
-  <img width="45" height="45" alt="Webpack" src="https://github.com/user-attachments/assets/1d31137c-e1a1-48cc-9109-2b3af8a2632d" />
   <img width="45" height="45" alt="Flutter" src="https://github.com/user-attachments/assets/d10e7c65-892c-4c4a-911f-9e2268de9e7e" />
 </p>
 
@@ -59,11 +57,6 @@ I specialize in crafting **modern, production-grade frontends** for web and mobi
 
 <p align="center">
  <img width="45" height="45" alt="AWS" src="https://github.com/user-attachments/assets/a408234b-1022-41e5-83a7-0c31b05ab37a" />
- <img width="45" height="45" alt="AWS S3 Bucket" src="https://github.com/user-attachments/assets/84c26e44-fbd7-4a32-b70e-474618b7e27d" />
- <img width="45" height="45" alt="AWS Lambda" src="https://github.com/user-attachments/assets/d388810e-cb69-4c5c-ab5d-3e5dd73080dc" />
- <img width="45" height="45" alt="AWS CloudFront" src="https://github.com/user-attachments/assets/f8adc3e2-1821-4aa0-a92f-8474c6848c15" />
- <img width="45" height="45" alt="AWS Route 53" src="https://github.com/user-attachments/assets/7817ba2a-0f87-4ddd-b5df-9a44be6fd0ea" />
- <img width="45" height="45" alt="AWS Lightsail" src="https://github.com/user-attachments/assets/6fff047a-446c-46eb-829a-30f1eee33fea" />
  <img width="45" height="45" alt="GitHub" src="https://github.com/user-attachments/assets/529d9b34-7ba4-4f1b-a2ab-c17c6aa5363f" />
  <img width="45" height="45" alt="GitHub Actions" src="https://github.com/user-attachments/assets/cd71563b-8208-47d7-994f-e25bc63a9ef8" />
  <img width="45" height="45" alt="Vercel" src="https://github.com/user-attachments/assets/dd17a854-f8a6-42fc-be10-41c26c02de86" />
