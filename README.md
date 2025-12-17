@@ -5,27 +5,25 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&color=ED0E64&center=true&vCenter=true&width=800&height=70&lines=Frontend+Developer+%F0%9F%92%BB;Building+Future-Ready+Web+%26+Mobile+Apps;Founder+of+Script+Wind;Based+in+Oman+%7C+Originally+from+Sri+Lanka" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&color=ED0E64&center=true&vCenter=true&width=800&height=70&lines=Full-Stack+Developer+%F0%9F%92%BB;Building+Future-Ready+Web+%26+Mobile+Apps;Founder+of+Script+Wind;Based+in+Oman+%7C+Originally+from+Sri+Lanka" alt="Typing SVG"/>
 </p>
 
 ---
 
 ## 👋 About Me  
 
-Hey there! I’m **Jude**, a self-taught frontend developer currently based in **Oman** 🇴🇲, originally from **Sri Lanka** 🇱🇰.  
+Hey there! I’m **Jude**, a self-taught full-stack developer currently based in **Oman** 🇴🇲, originally from **Sri Lanka** 🇱🇰.  
 I specialize in crafting **modern, production-grade frontends** for web and mobile apps — blending design, engineering, and scalability.  
 
 💼 **Current Roles:**  
-- **Frontend Developer** @ Pixel Pro Oman  
+- **Full-Stack Developer** @ Pixel Pro Oman  
 - **Founder** @ [Script Wind](https://scriptwind.com) — “Where ideas catch wind.”  
 
 🚀 **Currently Building:**  
 - SaaS, CRM & ERP Systems (multi-tenant)  
 - Cross-platform apps with **React Native (Expo) & Flutter**  
-- Cloud-native on **AWS**  
-
-🧭 My motto:  
-> “I believe technology should fuel creativity — not overwhelm it.”
+- Cloud-native on **AWS**
+- Backend Developments **Node.js & NestJs**  
 
 ---
 
@@ -62,10 +60,6 @@ I specialize in crafting **modern, production-grade frontends** for web and mobi
  <img width="45" height="45" alt="Vercel" src="https://github.com/user-attachments/assets/dd17a854-f8a6-42fc-be10-41c26c02de86" />
  <img width="45" height="45" alt="Docker" src="https://github.com/user-attachments/assets/9c268776-d360-4564-810f-796ad5f2ad57" />
  <img width="45" height="45" alt="WordPress" src="https://github.com/user-attachments/assets/79b6c39e-3498-4b1c-9222-1349b9fd008b" />
- <img width="45" height="45" alt="VS" src="https://github.com/user-attachments/assets/0b1f56dd-2ff3-409a-bd59-9dcb0ef47164" />
- <img width="45" height="45" alt="Figma" src="https://github.com/user-attachments/assets/34f304c8-02d2-4b74-a668-d8bd3d5448a8" />
- <img width="45" height="45" alt="Canva" src="https://github.com/user-attachments/assets/b5af3301-923e-4056-ab0d-2c109771c7dc" />
- <img width="45" height="45" alt="Adobe Illustrator" src="https://github.com/user-attachments/assets/24708687-ac5a-4ceb-9aa2-0f964ee1e1e0" />
 </p>
 
 <!-- <p align="center">
@@ -82,7 +76,7 @@ I specialize in crafting **modern, production-grade frontends** for web and mobi
 *Jul 2025 – Present | Oman & Remote*  
 Building SaaS applications, CRMs, and automation-ready AI solutions under my brand Script Wind.  
 
-**Frontend Developer — Pixel Pro Oman**  
+**Full-Stack Developer — Pixel Pro Oman**  
 *Sep 2022 – Present | Oman*  
 Developing full-stack ERP and mobile applications for Gethor Group’s internal systems.  
 
