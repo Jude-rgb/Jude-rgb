@@ -13,7 +13,7 @@
 ## 👋 About Me  
 
 Hey there! I’m **Jude**, a self-taught full-stack developer currently based in **Oman** 🇴🇲, originally from **Sri Lanka** 🇱🇰.  
-I specialize in crafting **modern, production-grade frontends** for web and mobile apps — blending design, engineering, and scalability.  
+I specialize in crafting **modern, production-grade web and mobile apps** — blending design, engineering, and scalability.  
 
 💼 **Current Roles:**  
 - **Full-Stack Developer** @ Pixel Pro Oman  
